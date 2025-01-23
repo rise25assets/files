@@ -1,6 +1,6 @@
 {
     "profiles": {
-        0:{
+        "0":{
 		    "img":"https://rise.iiitb.ac.in/presenterscorner/images_editted/sayakchowdhury.jpg",
 		    "name":"Sayak Chowdhury",
 		    "lab":"Software Engineering and Analysis Lab",
@@ -8,7 +8,7 @@
 		    "twitter":"https://x.com/SykChw",
 		    "linkedin":"https://www.linkedin.com/in/sykchw/"
 	    },
-	1:{
+	"1":{
 		    "img":"https://rise.iiitb.ac.in/presenterscorner/images_editted/soumickmajumdar.jpg",
 		    "name":"Soumick Majumdar",
 		    "lab":"Connected Devices and Wearables Lab",
@@ -17,7 +17,7 @@
 		    "linkedin":"https://www.linkedin.com/in/soumick-majumdar"
 	    },
 	
-	2:{
+	"2":{
 		    "img":"https://rise.iiitb.ac.in/presenterscorner/images_editted/princebutani.jpg",
 		    "name":"Prince Butani",
 		    "lab":"Graphics Visualization Computing Lab",
