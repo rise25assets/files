@@ -1,3 +1,53 @@
-<html>
-  RISE 25 Files
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Profile Viewer</title>
+    <script src="https://rise25assets.github.io/files/apis/profiles.json"></script>
+    <style>
+        .profile-card {
+            border: 1px solid #ddd;
+            margin: 10px;
+            padding: 15px;
+            max-width: 400px;
+            display: inline-block;
+            vertical-align: top;
+        }
+        .profile-image {
+            max-width: 200px;
+            max-height: 200px;
+        }
+    </style>
+</head>
+<body>
+    <div id="profiles-container"></div>
+
+    <script>
+    $(document).ready(function() {
+        // Replace with your actual JSON URL
+        const jsonUrl = 'YOUR_JSON_URL_HERE';
+
+        $.getJSON(jsonUrl, function(data) {
+            data.forEach(function(profile) {
+                const profileCard = `
+                    <div class="profile-card">
+                        <img src="${profile.img}" alt="${profile.name}" class="profile-image">
+                        <h2>${profile.name}</h2>
+                        <p><strong>Lab:</strong> ${profile.lab}</p>
+                        <p><strong>Bio:</strong> ${profile.bio}</p>
+                        <div>
+                            <a href="${profile.twitter}" target="_blank">Twitter</a>
+                            <a href="${profile.linkedin}" target="_blank">LinkedIn</a>
+                        </div>
+                    </div>
+                `;
+                $('#profiles-container').append(profileCard);
+            });
+        }).fail(function(jqXHR, textStatus, errorThrown) {
+            console.error("Error fetching JSON:", textStatus, errorThrown);
+            $('#profiles-container').html("Failed to load profiles");
+        });
+    });
+    </script>
+</body>
 </html>
