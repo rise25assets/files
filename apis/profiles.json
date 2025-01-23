@@ -1,27 +1,24 @@
-{
-    "profiles": 
-	[
-	    {
-		    "img":"https://rise.iiitb.ac.in/presenterscorner/images_editted/sayakchowdhury.jpg",
-		    "name":"Sayak Chowdhury",
-		    "lab":"Software Engineering and Analysis Lab",
-		    "bio":"Just an organism dreaming of electric brains and learning about how machine learn so as to teach the right things.",
-		    "twitter":"https://x.com/SykChw",
-		    "linkedin":"https://www.linkedin.com/in/sykchw/"
-	    },{
-		    "img":"https://rise.iiitb.ac.in/presenterscorner/images_editted/soumickmajumdar.jpg",
-		    "name":"Soumick Majumdar",
-		    "lab":"Connected Devices and Wearables Lab",
-		    "bio":"3x GATE slayer! Bridging flesh & silicon. Felicitated by IISc. Fluent in MATLAB, Python and Analog circuits.",
-		    "twitter":"",
-		    "linkedin":"https://www.linkedin.com/in/soumick-majumdar"
-	    },{
-		    "img":"https://rise.iiitb.ac.in/presenterscorner/images_editted/princebutani.jpg",
-		    "name":"Prince Butani",
-		    "lab":"Graphics Visualization Computing Lab",
-		    "bio":"Visual Analytics & Data visualization: making charts so beautiful, even Excel sheds a tear",
-		    "twitter":"",
-		    "linkedin":"https://www.linkedin.com/in/princebutani/"
-	    }
-    ]
-}
+[
+    {
+	    "img":"https://rise.iiitb.ac.in/presenterscorner/images_editted/sayakchowdhury.jpg",
+	    "name":"Sayak Chowdhury",
+	    "lab":"Software Engineering and Analysis Lab",
+	    "bio":"Just an organism dreaming of electric brains and learning about how machine learn so as to teach the right things.",
+	    "twitter":"https://x.com/SykChw",
+	    "linkedin":"https://www.linkedin.com/in/sykchw/"
+    },{
+	    "img":"https://rise.iiitb.ac.in/presenterscorner/images_editted/soumickmajumdar.jpg",
+	    "name":"Soumick Majumdar",
+	    "lab":"Connected Devices and Wearables Lab",
+	    "bio":"3x GATE slayer! Bridging flesh & silicon. Felicitated by IISc. Fluent in MATLAB, Python and Analog circuits.",
+	    "twitter":"",
+	    "linkedin":"https://www.linkedin.com/in/soumick-majumdar"
+    },{
+	    "img":"https://rise.iiitb.ac.in/presenterscorner/images_editted/princebutani.jpg",
+	    "name":"Prince Butani",
+	    "lab":"Graphics Visualization Computing Lab",
+	    "bio":"Visual Analytics & Data visualization: making charts so beautiful, even Excel sheds a tear",
+	    "twitter":"",
+	    "linkedin":"https://www.linkedin.com/in/princebutani/"
+    }
+]
