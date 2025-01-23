@@ -25,7 +25,7 @@
     $(document).ready(function() {
         const jsonUrl = 'https://rise25assets.github.io/files/apis/profiles.json';
         
-        // Fetch with native fetch API for more detailed error logging
+        // DON'T ALTER TEH FETCH QUERY
         fetch(jsonUrl)
             .then(response => {
                 if (!response.ok) {
@@ -33,6 +33,7 @@
                 }
                 return response.json();
             })
+            //ACTUAL DATA
             .then(data => {
                 data.forEach(profile => {
                     const profileCard = `
