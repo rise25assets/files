@@ -21,32 +21,39 @@
 </head>
 <body>
     <div id="profiles-container"></div>
-
     <script>
     $(document).ready(function() {
-        // Replace with your actual JSON URL
         const jsonUrl = 'https://rise25assets.github.io/files/apis/profiles.json';
-
-        $.getJSON(jsonUrl, function(data) {
-            data.forEach(function(profile) {
-                const profileCard = `
-                    <div class="profile-card">
-                        <img src="${profile.img}" alt="${profile.name}" class="profile-image">
-                        <h2>${profile.name}</h2>
-                        <p><strong>Lab:</strong> ${profile.lab}</p>
-                        <p><strong>Bio:</strong> ${profile.bio}</p>
-                        <div>
-                            <a href="${profile.twitter}" target="_blank">Twitter</a>
-                            <a href="${profile.linkedin}" target="_blank">LinkedIn</a>
+        
+        // Fetch with native fetch API for more detailed error logging
+        fetch(jsonUrl)
+            .then(response => {
+                if (!response.ok) {
+                    throw new Error(`HTTP error! status: ${response.status}`);
+                }
+                return response.json();
+            })
+            .then(data => {
+                data.forEach(profile => {
+                    const profileCard = `
+                        <div class="profile-card">
+                            <img src="${profile.img}" alt="${profile.name}" class="profile-image">
+                            <h2>${profile.name}</h2>
+                            <p><strong>Lab:</strong> ${profile.lab}</p>
+                            <p><strong>Bio:</strong> ${profile.bio}</p>
+                            <div>
+                                ${profile.twitter ? `<a href="${profile.twitter}" target="_blank">Twitter</a>` : ''}
+                                ${profile.linkedin ? `<a href="${profile.linkedin}" target="_blank">LinkedIn</a>` : ''}
+                            </div>
                         </div>
-                    </div>
-                `;
-                $('#profiles-container').append(profileCard);
+                    `;
+                    document.getElementById('profiles-container').innerHTML += profileCard;
+                });
+            })
+            .catch(error => {
+                console.error('Detailed Error:', error);
+                document.getElementById('profiles-container').innerHTML = `Error loading profiles: ${error.message}`;
             });
-        }).fail(function(jqXHR, textStatus, errorThrown) {
-            console.error("Error fetching JSON:", textStatus, errorThrown);
-            $('#profiles-container').html("Failed to load profiles");
-        });
     });
     </script>
 </body>
