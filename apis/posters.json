@@ -1,0 +1,82 @@
+[
+  {
+    "roomNumber": "R101",
+    "location": "Academic Block - First Floor",
+    "posters": [
+      {
+        "title": "AI-Driven Healthcare: Early Disease Detection Using Deep Learning",
+        "presenters": ["Aditya Kumar", "Priya Sharma"],
+        "abstract": "A novel approach to early disease detection using deep learning models trained on medical imaging data.",
+        "domain": "Healthcare AI",
+        "hasDemo": true
+      },
+      {
+        "title": "Predictive Analytics in Healthcare",
+        "presenters": ["Rahul Mehta"],
+        "abstract": "Implementation of predictive models for patient outcome analysis and treatment planning.",
+        "domain": "Healthcare AI",
+        "hasDemo": false
+      }
+    ]
+  },
+  {
+    "roomNumber": "R102",
+    "location": "Academic Block - First Floor",
+    "posters": [
+      {
+        "title": "Secure Blockchain Framework for IoT Devices",
+        "presenters": ["Rahul Verma"],
+        "abstract": "Implementation of a lightweight blockchain framework designed specifically for IoT devices.",
+        "domain": "Blockchain",
+        "hasDemo": true
+      },
+      {
+        "title": "Smart Contract Security Analysis",
+        "presenters": ["Sneha Reddy", "Arjun Kumar"],
+        "abstract": "Novel approaches to detecting vulnerabilities in smart contracts using static analysis.",
+        "domain": "Blockchain",
+        "hasDemo": true
+      }
+    ]
+  },
+  {
+    "roomNumber": "R103",
+    "location": "Academic Block - Second Floor",
+    "posters": [
+      {
+        "title": "Natural Language Processing for Indian Languages",
+        "presenters": ["Sneha Patel", "Mohammed Khan"],
+        "abstract": "Development of NLP models optimized for processing and understanding Indian languages.",
+        "domain": "NLP",
+        "hasDemo": true
+      },
+      {
+        "title": "Cross-Lingual Transfer Learning",
+        "presenters": ["Ankit Shah"],
+        "abstract": "Innovative approaches to transfer learning across different Indian languages.",
+        "domain": "NLP",
+        "hasDemo": false
+      }
+    ]
+  },
+  {
+    "roomNumber": "R104",
+    "location": "Academic Block - Second Floor",
+    "posters": [
+      {
+        "title": "Quantum Computing Applications in Cryptography",
+        "presenters": ["Arjun Reddy"],
+        "abstract": "Exploring the potential applications of quantum computing in modern cryptographic systems.",
+        "domain": "Quantum Computing",
+        "hasDemo": true
+      },
+      {
+        "title": "Post-Quantum Cryptography Implementations",
+        "presenters": ["Neha Gupta", "Raj Sharma"],
+        "abstract": "Implementation and analysis of post-quantum cryptographic algorithms.",
+        "domain": "Quantum Computing",
+        "hasDemo": true
+      }
+    ]
+  }
+]
