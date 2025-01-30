@@ -1,24 +1,59 @@
 [
+  {
+	"name": "Pavan Iddalagi",
+	"lab": "Networking and Communication Lab (NCL)",
+	"supervisor": "Dr. Amrita Mishra",
+	"description": "Mr. Pavan Iddalagi has over 16 years of experience under the computer network domain. He has worked on control and data plane architecture of various network components like routers, switches, and standalone servers.",
+	"linkedin": "https://www.linkedin.com/in/pavan-iddalagi-6b845a15",
+	"resume": "https://rise.iiitb.ac.in/presenterscorner/2025_Resume/IddalagiPavan.pdf",
+	"image": "https://rise.iiitb.ac.in/presenterscorner/2025/IddalagiPavan.png"
+  },
+  {
+	"name": "Me Me Khaing",
+	"lab": "Room Number 313 - MS/PHD research scholar lab",
+	"supervisor": "Prof. Shrisha Rao",
+	"description": "I am a PhD scholar at IIIT Bangalore. My research focuses on ML, DL, and distributed computing for renewable energy prediction and efficient task scheduling.",
+	"linkedin": "https://www.linkedin.com/in/me-me-khaing-8711671b3/",
+	"resume": "https://rise.iiitb.ac.in/presenterscorner/2025_Resume/MeMeKhaing.pdf",
+	"image": "https://rise.iiitb.ac.in/presenterscorner/2025/MeMeKhaing.jpg"
+  },
+  {
+	"name": "Snigdhashree Mallick",
+	"lab": "Mathematics and Basic Sciences",
+	"supervisor": "Dr. Shiva Kumar Malapaka, Co-Supervisor: Amit Chattopadhyay",
+	"description": "An avid traveler, currently exploring the fascinating interplay of spatio-temporal patterns in turbulent fluid flow as well as in her own life.",
+	"linkedin": "https://www.linkedin.com/in/snigdhashree-mallick/",
+	"resume": "https://rise.iiitb.ac.in/presenterscorner/2025_Resume/SnigdhaShreeMallick.pdf",
+	"image": "https://rise.iiitb.ac.in/presenterscorner/2025/SnigdhaShreeMallick.jpg"
+  },
+  {
+	"name": "Chandan Kumar NS",
+	"lab": "SARL",
+	"supervisor": "Prof. MADHAV RAO",
+	"resume": "https://rise.iiitb.ac.in/presenterscorner/2025_Resume/ChandanKumarNS.pdf",
+	"description": "Dynamic Student, Passionate about VLSI Technology, Innovator and Problem-Solver, Bridging Theory with Practical Application.",
+	"github": "https://github.com/Dhanu-07/",
+	"linkedin": "https://www.linkedin.com/in/chandan-kumar-n-s-8578b521b/",
+	"image": "https://rise.iiitb.ac.in/presenterscorner/2025/ChandanKumarNS.jpg"
+    },
     {
-	    "img":"https://rise.iiitb.ac.in/presenterscorner/images_editted/sayakchowdhury.jpg",
-	    "name":"Sayak Chowdhury",
-	    "lab":"Software Engineering and Analysis Lab",
-	    "bio":"Just an organism dreaming of electric brains and learning about how machine learn so as to teach the right things.",
-	    "twitter":"https://x.com/SykChw",
-	    "linkedin":"https://www.linkedin.com/in/sykchw/"
-    },{
-	    "img":"https://rise.iiitb.ac.in/presenterscorner/images_editted/soumickmajumdar.jpg",
-	    "name":"Soumick Majumdar",
-	    "lab":"Connected Devices and Wearables Lab",
-	    "bio":"3x GATE slayer! Bridging flesh & silicon. Felicitated by IISc. Fluent in MATLAB, Python and Analog circuits.",
-	    "twitter":"",
-	    "linkedin":"https://www.linkedin.com/in/soumick-majumdar"
-    },{
-	    "img":"https://rise.iiitb.ac.in/presenterscorner/images_editted/princebutani.jpg",
-	    "name":"Prince Butani",
-	    "lab":"Graphics Visualization Computing Lab",
-	    "bio":"Visual Analytics & Data visualization: making charts so beautiful, even Excel sheds a tear",
-	    "twitter":"",
-	    "linkedin":"https://www.linkedin.com/in/princebutani/"
+	"name": "Kushagra Mehrotra",
+	"lab": "Machine Intelligence and Robotics Centre",
+	"supervisor": "Vishwanath Gopalakrishnan",
+	"resume": "https://rise.iiitb.ac.in/presenterscorner/2025_Resume/KushagraMehrotra.pdf",
+	"image": "https://rise.iiitb.ac.in/presenterscorner/2025/KushagraMehrotra.jpg",
+	"description": "I am a data science student pursuing research in 3D computer vision. I love experimenting with applied ML techniques and spend my free time lost in imagination.",
+	"github": "https://github.com/kushaagr",
+	"linkedin": "https://www.linkedin.com/in/kushaagr"
+    },
+    {
+	"name": "Krishnakumar N",
+	"lab": "Graphics Visualization Computing Lab",
+	"supervisor": "Prof. Jaya Sreevalsan Nair",
+	"resume": "https://rise.iiitb.ac.in/presenterscorner/2025_Resume/KrishnakumarN.pdf",
+	"image": "https://rise.iiitb.ac.in/presenterscorner/2025/KrishnakumarN.jpg",
+	"description": "My area of research includes 3D LiDAR point clouds, Segmentation, Digital Twins, and 3D reconstruction workflows",
+	"github": "https://github.com/aiatoz",
+	"linkedin": "https://www.linkedin.com/in/krishnakumar-n-5691bbb8/"
     }
 ]
