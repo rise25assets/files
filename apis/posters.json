@@ -78,25 +78,5 @@
         "hasDemo": true
       }
     ]
-  },
-  {
-    "roomNumber": "R130",
-    "location": "Academic Block - Second Floor",
-    "posters": [
-      {
-        "title": "Quantum Computing Applications in Cryptography",
-        "presenters": ["Arjun Reddy"],
-        "abstract": "Exploring the potential applications of quantum computing in modern cryptographic systems.",
-        "domain": "Quantum Computing",
-        "hasDemo": true
-      },
-      {
-        "title": "Post-Quantum Cryptography Implementations",
-        "presenters": ["Neha Gupta", "Raj Sharma"],
-        "abstract": "Implementation and analysis of post-quantum cryptographic algorithms.",
-        "domain": "Quantum Computing",
-        "hasDemo": true
-      }
-    ]
   }
 ]
