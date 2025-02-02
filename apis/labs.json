@@ -1,37 +1,37 @@
 [
   {
-    name: "Software Engineering and Analysis Lab",
-    description: "This lab focuses on empirical and formal aspects of software engineering, covering various stages of the Software Development Life Cycle (SDLC) such as requirements, design, testing, and maintenance across different application domains.",
-    areas: ["Software Development Life Cycle", "Software Testing", "Software Maintenance"],
-    faculty: [
-      { name: "Prof. Sujit Kumar Chakrabarti", email: "sujit@iiitb.ac.in" },
-      { name: "Prof. Meenakshi D'Souza", email: "meenakshi@iiitb.ac.in" },
-      { name: "Prof. Chandrashekar Ramanathan", email: "rc@iiitb.ac.in" },
-      { name: "Prof. B. Thangaraju", email: "thangaraju.b@iiitb.ac.in" }
+    "name": "Software Engineering and Analysis Lab",
+    "description": "This lab focuses on empirical and formal aspects of software engineering, covering various stages of the Software Development Life Cycle (SDLC) such as requirements, design, testing, and maintenance across different application domains.",
+    "areas": ["Software Development Life Cycle", "Software Testing", "Software Maintenance"],
+    "faculty": [
+      { "name": "Prof. Sujit Kumar Chakrabarti", email: "sujit@iiitb.ac.in" },
+      { "name": "Prof. Meenakshi D'Souza", email: "meenakshi@iiitb.ac.in" },
+      { "name": "Prof. Chandrashekar Ramanathan", email: "rc@iiitb.ac.in" },
+      { "name": "Prof. B. Thangaraju", email: "thangaraju.b@iiitb.ac.in" }
     ]
   },
   {
-    name: "Multimodal Perception Lab",
-    description: "This lab specializes in human-centered sensing and multimodal signal processing techniques to analyze human behavior. Applications include behavioral training, social media analysis, and human-robot interactions using vision and audio modalities.",
-    areas: ["Human-Centered Sensing", "Multimodal Signal Processing", "Behavioral Analytics"],
-    faculty: [
-      { name: "Dr. Dinesh Babu Jayagopi", email: "dinesh.babu@iiitb.ac.in" }
+    "name": "Multimodal Perception Lab",
+    "description": "This lab specializes in human-centered sensing and multimodal signal processing techniques to analyze human behavior. Applications include behavioral training, social media analysis, and human-robot interactions using vision and audio modalities.",
+    "areas": ["Human-Centered Sensing", "Multimodal Signal Processing", "Behavioral Analytics"],
+    "faculty": [
+      { "name": "Dr. Dinesh Babu Jayagopi", email: "dinesh.babu@iiitb.ac.in" }
     ]
   },
   {
-    name: "Web Science Lab",
-    description: "The Web Science Lab aims to understand various aspects of the web, including web-scale data management, web mining, network analysis, and socio-cognitive models of web dynamics.",
-    areas: ["Web Mining", "Network Analysis", "Web-Scale Data Management"],
-    faculty: [
-      { name: "Prof. Srinath Srinivasa", email: "srinath@iiitb.ac.in" }
+    "name": "Web Science Lab",
+    "description": "The Web Science Lab aims to understand various aspects of the web, including web-scale data management, web mining, network analysis, and socio-cognitive models of web dynamics.",
+    "areas": ["Web Mining", "Network Analysis", "Web-Scale Data Management"],
+    "faculty": [
+      { "name": "Prof. Srinath Srinivasa", email: "srinath@iiitb.ac.in" }
     ]
   },
   {
-    name: "Graphics-Visualization-Computing Lab",
-    description: "The GVCL works on visual analytics and spatial computing, developing interdisciplinary data models and techniques for visualization and spatial processing. Applications include geosciences, biomedical data, and public health.",
-    areas: ["Visual Analytics", "Spatial Computing", "Data Visualization"],
-    faculty: [
-      { name: "Prof. Jaya Sreevalsan Nair", email: "jaya@iiitb.ac.in" }
+    "name": "Graphics-Visualization-Computing Lab",
+    "description": "The GVCL works on visual analytics and spatial computing, developing interdisciplinary data models and techniques for visualization and spatial processing. Applications include geosciences, biomedical data, and public health.",
+    "areas": ["Visual Analytics", "Spatial Computing", "Data Visualization"],
+    "faculty": [
+      { "name": "Prof. Jaya Sreevalsan Nair", email: "jaya@iiitb.ac.in" }
     ]
   }
 ]
