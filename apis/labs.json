@@ -33,13 +33,5 @@
     "faculty": [
       { "name": "Prof. Jaya Sreevalsan Nair", "email": "jaya@iiitb.ac.in" }
     ]
-  },
-  {
-    "name": "GVCL",
-    "description": "The GVCL works on visual analytics and spatial computing, developing interdisciplinary data models and techniques for visualization and spatial processing. Applications include geosciences, biomedical data, and public health.",
-    "areas": ["Visual Analytics", "Spatial Computing", "Data Visualization"],
-    "faculty": [
-      { "name": "Prof. Jaya Sreevalsan Nair", "email": "jaya@iiitb.ac.in" }
-    ]
   }
 ]
