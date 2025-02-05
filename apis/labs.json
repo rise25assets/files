@@ -10,7 +10,7 @@
     ],
     "faculty": [
       {
-        "name": "Vinod Veera Reddy",
+        "name": "Prof. Vinod Veera Reddy",
         "email": "vinod.reddy@iiitb.ac.in"
       }
     ]
@@ -23,7 +23,7 @@
     ],
     "faculty": [
       {
-        "name": "Prem Singh",
+        "name": "Prof. Prem Singh",
         "email": "prem.singh@iiitb.ac.in"
       }
     ]
@@ -38,7 +38,7 @@
     ],
     "faculty": [
       {
-        "name": "Balakrishnan Ashok",
+        "name": "Prof. Balakrishnan Ashok",
         "email": "bashok@iiitb.ac.in"
       }
     ]
@@ -52,7 +52,7 @@
     ],
     "faculty": [
       {
-        "name": "Dinesh Babu J",
+        "name": "Prof. Dinesh Babu J",
         "email": "jdinesh@iiitb.ac.in"
       }
     ]
@@ -68,7 +68,7 @@
     ],
     "faculty": [
       {
-        "name": "Viswanath Gopalakrishnan",
+        "name": "Prof. Viswanath Gopalakrishnan",
         "email": "viswanath.g@iiitb.ac.in"
       }
     ]
@@ -86,7 +86,7 @@
     ],
     "faculty": [
       {
-        "name": "Sachit Rao",
+        "name": "Prof. Sachit Rao",
         "email": "sachit@iiitb.ac.in"
       }
     ]
@@ -103,9 +103,14 @@
     ],
     "faculty": [
       {
-        "name": "Srinath Srinivasa",
+        "name": "Prof. Srinath Srinivasa",
         "email": "sri@iiitb.ac.in"
-      }
+      },
+	  {
+		"name": "Prof. Sushree Behera",
+        "email": "sushree.behera@iiitb.ac.in"
+	  }
+	  
     ]
   },
   {
@@ -120,6 +125,14 @@
       {
         "name": "Prof. Debabrata Das",
         "email": "Sharvari.R@iiitb.ac.in"
+      },
+	  {
+        "name": "Prof. Jyotsna Bapat",
+        "email": "jbapat@iiitb.ac.in"
+      },
+	  {
+        "name": "Prof. Amrita Mishra",
+        "email": "amrita.mishra@iiitb.ac.in"
       }
     ]
   },
@@ -136,8 +149,12 @@
     ],
     "faculty": [
       {
-        "name": "Pradeesha Ashok",
+        "name": "Prof. Pradeesha Ashok",
         "email": "Pradeesha@iiitb.ac.in"
+      },
+	  {
+        "name": "Prof. Amit Chattopadhyay",
+        "email": "a.chattopadhyay@iiitb.ac.in"
       }
     ]
   },
@@ -150,7 +167,7 @@
     ],
     "faculty": [
       {
-        "name": "Sanghasri Mukhopadhyay (IIITB",
+        "name": "Prof. Sanghasri Mukhopadhyay",
         "email": "Sanghasri.M@iiitb.ac.in"
       }
     ]
@@ -181,7 +198,7 @@
     "faculty": [
       {
         "name": "Prof. Raghuram Bharadwaj Diddigi",
-        "email": "chainesh.gautam@iiitb.ac.in"
+        "email": "raghuram.bharadwaj@iiitb.ac.in"
       }
     ]
   },
@@ -197,7 +214,7 @@
     ],
     "faculty": [
       {
-        "name": "Vinu Ellampallil Venugopal",
+        "name": "Prof. Vinu Ellampallil Venugopal",
         "email": "vinu.ev@iiitb.ac.in"
       }
     ]
@@ -210,8 +227,32 @@
     ],
     "faculty": [
       {
-        "name": "Sridhar Pillalamarri",
+        "name": "Prof. Sridhar Pillalamarri",
         "email": "amudheesan.nakkeeran@iiitb.ac.in"
+      },
+	  {
+        "name": "Prof. Ajay Bakre",
+        "email": "ajay.bakre@iiitb.ac.in"
+      },
+	  {
+        "name": "Prof. Jyotsna Bapat",
+        "email": "jbapat@iiitb.ac.in"
+      },
+	  {
+        "name": "Prof. Prem Singh",
+        "email": "prem.singh@iiitb.ac.in"
+      },
+	  {
+        "name": "Prof. Vinod Veera Reddy",
+        "email": "vinod.reddy@iiitb.ac.in"
+      },
+	  {
+        "name": "Prof. Priyanka Das",
+        "email": "priyanka.das@iiitb.ac.in"
+      },
+	  {
+        "name": "Prof. Amrita Mishra",
+        "email": "amrita.mishra@iiitb.ac.in"
       }
     ]
   }
