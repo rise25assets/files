@@ -4,9 +4,8 @@
     "description": "Radar Sensing Lab works in the broad spectrum of applications of radar. In particular, the team currently works on problems specific to automotive, medical, and communication applications. The availability of off-the-shelf radars has enabled us to explore new problems and their applicability. We work closely with the industry and are open to collaboration with universities and government organizations. The team and infrastructure are progressively growing to accept challenging problems and solve them.",
     "areas": [
       "Signal Processing for radars adopted in applications related to automotive",
-      "Medical",
-      "Human activity recognition",
-      "Imaging"
+      "Medical Imaging",
+      "Human activity recognition"
     ],
     "faculty": [
       {
@@ -19,7 +18,8 @@
     "name": "COMET Lab",
     "description": "Embedded system design for 5G and beyond wireless communication",
     "areas": [
-      "5G and Beyong wireless communication"
+      "5G",
+      "Beyong wireless communication"
     ],
     "faculty": [
       {
@@ -105,9 +105,7 @@
     "areas": ["Software Development Life Cycle", "Software Testing", "Software Maintenance"],
     "faculty": [
       { "name": "Prof. Sujit Kumar Chakrabarti", "email": "sujit@iiitb.ac.in" },
-      { "name": "Prof. Meenakshi D'Souza", "email": "meenakshi@iiitb.ac.in" },
-      { "name": "Prof. Chandrashekar Ramanathan", "email": "rc@iiitb.ac.in" },
-      { "name": "Prof. B. Thangaraju", "email": "thangaraju.b@iiitb.ac.in" }
+      { "name": "Prof. Meenakshi D'Souza", "email": "meenakshi@iiitb.ac.in" }
     ]
   },
   {
@@ -125,11 +123,10 @@
         "name": "Prof. Srinath Srinivasa",
         "email": "sri@iiitb.ac.in"
       },
-	  {
-		"name": "Prof. Sushree Behera",
+  	  {
+    		"name": "Prof. Sushree Behera",
         "email": "sushree.behera@iiitb.ac.in"
-	  }
-	  
+      }
     ]
   },
   {
@@ -181,7 +178,8 @@
     "name": "Thin Film Flow Modeling and Instabilities Lab (TFFMIL)",
     "description": "Our research group is committed to revolutionizing the understanding of the flow of thin films, their instabilities, interactions with complex surfaces, the effect of different body/external forces like electric, magnetic, or temperature fields, contamination like soluble/insoluble surfactant effects, and for various types of fluid rheologies, Newtonian and non-Newtonian. By developing cutting-edge analytical and semi-analytical mathematical models and advanced numerical techniques, we delve into hydrodynamics, interfacial phenomena, and flow control across a wide range of applications, from microfluidics to porous media. Our mission is to drive innovation toward sustainable technologies that address pressing energy and environmental challenges. Join us as we pave the way for a more efficient and sustainable future.",
     "areas": [
-      "Area: Fluid Mechanics; Sub-Area: Mathematical  Modelling and Computing",
+      "Area: Fluid Mechanics",
+      "Sub-Area: Mathematical  Modelling and Computing",
       "Dynamics and Instabilities of Thin Film Flow"
     ],
     "faculty": [
@@ -195,7 +193,9 @@
     "name": "Centre for Accessibility in the Global South",
     "description": "CAGS is a research-based multidisciplinary centre for disability studies, with a focus on the Global South. The centre focuses on creating a network and a shared platform for bridging together industry, academia and organizations working with people with disabilities, to create accessible solutions.",
     "areas": [
-      "Accessible Education ; Assistive Technology (AT) in the Global South ; Digital Inclusive Learning Ecosystem"
+      "Accessible Education",
+      "Assistive Technology (AT) in the Global South",
+      "Digital Inclusive Learning Ecosystem"
     ],
     "faculty": [
       {
