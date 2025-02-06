@@ -151,7 +151,7 @@
         "personalWebpage": "",
         "googleScholar": "",
         "github": "",
-        "linkedin": "www.linkedin.com/in/soumaditya-chaudhuri"
+        "linkedin": "https://www.linkedin.com/in/soumaditya-chaudhuri"
     },
     {
         "ID": "8",
@@ -195,7 +195,7 @@
         "personalWebpage": "",
         "googleScholar": "",
         "github": "",
-        "linkedin": "www.linkedin.com/in/soumick-majumdar"
+        "linkedin": "https://www.linkedin.com/in/soumick-majumdar/"
     },
     {
         "ID": "10",
@@ -459,7 +459,7 @@
         "personalWebpage": "",
         "googleScholar": "",
         "github": "",
-        "linkedin": "www.linkedin.com/in/priyadarshini-rengarajan-284065bb?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"
+        "linkedin": "https://www.linkedin.com/in/priyadarshini-rengarajan-284065bb?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"
     },
     {
         "ID": "22",
@@ -481,7 +481,7 @@
         "personalWebpage": "",
         "googleScholar": "",
         "github": "",
-        "linkedin": "www.linkedin.com/in/sanju-murthy-17746012b"
+        "linkedin": "https://www.linkedin.com/in/sanju-murthy-17746012b"
     },
     {
         "ID": "23",
@@ -723,7 +723,7 @@
         "personalWebpage": "",
         "googleScholar": "https://scholar.google.com/citations?user=fIekoLAAAAAJ&hl=en",
         "github": "",
-        "linkedin": "www.linkedin.com/in/dhanya-e"
+        "linkedin": "https://www.linkedin.com/in/dhanya-e"
     },
     {
         "ID": "34",
@@ -789,7 +789,7 @@
         "personalWebpage": "",
         "googleScholar": "https://scholar.google.com/citations?user=iQlpNKgAAAAJ&hl=en",
         "github": "",
-        "linkedin": "www.linkedin.com/suhail-farhaan-shaik"
+        "linkedin": "https://www.linkedin.com/suhail-farhaan-shaik"
     },
     {
         "ID": "37",
@@ -912,11 +912,11 @@
         "email": "Shruti.singh@iiitb.ac.in",
         "rollNumber": "MS2024020",
         "phone": "8081244745",
-        "lab": "SARL",
+        "lab": "Surgical Assistance and Robotics Lab",
         "supervisor": "Prof. Madhav Rao ",
         "resume": "https://rise25assets.github.io/files/resume/ShrutiSingh.pdf",
         "image": "https://rise25assets.github.io/files/display-images/ShrutiSingh.jpg",
-        "description": "I am an MS (by Research) student in VLSI at IIIT Bangalore, focusing on VLSI design, digital circuits, and FPGA-based computing.",
+        "description": "A VLSI Research Scholar focusing on VLSI design, digital circuits, and FPGA-based computing,edge computing.",
         "researchArea": "FPGA, ASIC, Posit",
         "personalWebpage": "",
         "googleScholar": "",
@@ -965,7 +965,7 @@
         "personalWebpage": "",
         "googleScholar": "",
         "github": "",
-        "linkedin": "www.linkedin.com/in/rishita-patel-b927991b9"
+        "linkedin": "https://www.linkedin.com/in/rishita-patel-b927991b9"
     },
     {
         "ID": "45",
@@ -978,7 +978,7 @@
         "email": "karthikeya.s@iiitb.ac.in",
         "rollNumber": "PH2023005",
         "phone": "9884294982",
-        "lab": "Computational Geometry And Topology Lab",
+        "lab": "Graph-Geometry-Topology Lab",
         "supervisor": "Amit Chattopadhyay",
         "resume": "https://rise25assets.github.io/files/resume/KarthikeyaSubramanian.pdf",
         "image": "https://rise25assets.github.io/files/display-images/KarthikeyaSubramanian.jpg",
@@ -987,7 +987,7 @@
         "personalWebpage": "https://karthikeya-subramanian.github.io",
         "googleScholar": "",
         "github": "https://github.com/Karthikeya-Subramanian",
-        "linkedin": "NA.com"
+        "linkedin": "https://karthikeya-subramanian.github.io/"
     },
     {
         "ID": "46",
@@ -1009,6 +1009,6 @@
         "personalWebpage": "",
         "googleScholar": "",
         "github": "https://github.com/Cdivyam/",
-        "linkedin": "www.linkedin.com/in/cdivyam"
+        "linkedin": "https://www.linkedin.com/in/cdivyam"
     }
 ]
