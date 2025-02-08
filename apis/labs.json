@@ -4,27 +4,15 @@
     "description": "Radar Sensing Lab works in the broad spectrum of applications of radar. In particular, the team currently works on problems specific to automotive, medical, and communication applications. The availability of off-the-shelf radars has enabled us to explore new problems and their applicability. We work closely with the industry and are open to collaboration with universities and government organizations. The team and infrastructure are progressively growing to accept challenging problems and solve them.",
     "areas": [
       "Signal Processing for radars adopted in applications related to automotive",
-      "Medical Imaging",
-      "Human activity recognition"
+      "medical",
+      "human activity recognition",
+      "imaging",
+      "ISAC"
     ],
     "faculty": [
       {
-        "name": "Prof. Vinod Veera Reddy",
+        "name": "Vinod Veera Reddy",
         "email": "vinod.reddy@iiitb.ac.in"
-      }
-    ]
-  },
-  {
-    "name": "COMET Lab",
-    "description": "Embedded system design for 5G and beyond wireless communication",
-    "areas": [
-      "5G",
-      "Beyong wireless communication"
-    ],
-    "faculty": [
-      {
-        "name": "Prof. Prem Singh",
-        "email": "prem.singh@iiitb.ac.in"
       }
     ]
   },
@@ -33,23 +21,15 @@
     "description": "The areas of theoretical research of the CSSMP group are interdisciplinary, principally in nonlinear dynamics, soft matter & complex fluids, physics of living systems, modelling of complex systems at different scales and aspects of quantum computing.",
     "areas": [
       "Complex systems",
-      "Nonlinear dynamics",
-      "Soft matter physics",
-      "Aspects of quantum computing"
+      "nonlinear dynamics",
+      "soft matter physics",
+      "aspects of quantum computing"
     ],
     "faculty": [
       {
-        "name": "Prof. Balakrishnan Ashok",
+        "name": "Balakrishnan Ashok",
         "email": "bashok@iiitb.ac.in"
       }
-    ]
-  },
-  {
-    "name": "Graphics-Visualization-Computing Lab",
-    "description": "The GVCL works on visual analytics and spatial computing, developing interdisciplinary data models and techniques for visualization and spatial processing. Applications include geosciences, biomedical data, and public health.",
-    "areas": ["Visual Analytics", "Spatial Computing", "Data Visualization"],
-    "faculty": [
-      { "name": "Prof. Jaya Sreevalsan Nair", "email": "jaya@iiitb.ac.in" }
     ]
   },
   {
@@ -61,7 +41,7 @@
     ],
     "faculty": [
       {
-        "name": "Prof. Dinesh Babu J",
+        "name": "Dinesh Babu J",
         "email": "jdinesh@iiitb.ac.in"
       }
     ]
@@ -73,11 +53,11 @@
       "Few Shot Object Segmentation",
       "CAD Model based Object Part Segmentation",
       "Generative AI for solving 3D vision problems (6D Pose estimation)",
-      "Language guided  exploration in 3D environments."
+      "Language guided exploration in 3D environments"
     ],
     "faculty": [
       {
-        "name": "Prof. Viswanath Gopalakrishnan",
+        "name": "Viswanath Gopalakrishnan",
         "email": "viswanath.g@iiitb.ac.in"
       }
     ]
@@ -95,23 +75,14 @@
     ],
     "faculty": [
       {
-        "name": "Prof. Sachit Rao",
+        "name": "Sachit Rao",
         "email": "sachit@iiitb.ac.in"
       }
     ]
   },
   {
-    "name": "Software Engineering and Analysis Lab",
-    "description": "This lab focuses on empirical and formal aspects of software engineering, covering various stages of the Software Development Life Cycle (SDLC) such as requirements, design, testing, and maintenance across different application domains.",
-    "areas": ["Software Development Life Cycle", "Software Testing", "Software Maintenance"],
-    "faculty": [
-      { "name": "Prof. Sujit Kumar Chakrabarti", "email": "sujit@iiitb.ac.in" },
-      { "name": "Prof. Meenakshi D'Souza", "email": "meenakshi@iiitb.ac.in" }
-    ]
-  },
-  {
     "name": "Web Science Lab",
-    "description": "The Web Science Lab (WSL) at IIIT Bangalore is interested in understanding how the Internet, WWW and AI affects different facets of human life. The Internet, WWW and now AI have brought about massive changes on human life in just about all facets– be it in business, administration, social well-being, personal relationships, education, etc. While these technologies continue to evolve at a rapid pace, there is relatively little attention given to how we as humans are transforming in this new world.\n\nThe idea of Web Science was formally coined by the establishment of the Web Science Trust Network (WSTNet) in 2006, comprising of multiple research labs around the world. WSL at IIITB is a part of the global WSTNet.\n\nThe “The Power Law of Information: Life in a Connected World” written in 2006 by Srinath Srinivasa provides some of the underlying questions that started this lab. This book was written before the emergence of social media, mobile apps, cryptocurrency, etc. and has some arguments speculating the emergence of these structures.\n\nAs part of our Digital Empowerment initiatives, WSL has also partnered with Gooru Learning Inc., which is California-based company (that has its genesis in Google Inc) focusing on how WWW and AI can aid in social empowerment through education. WSL is part of Navigated Learning Collaborative under Gooru.",
+    "description": "The Web Science Lab (WSL) at IIIT Bangalore is interested in understanding how the Internet, WWW and AI affects different facets of human life. The Internet, WWW and now AI have brought about massive changes on human life in just about all facets– be it in business, administration, social well-being, personal relationships, education, etc. While these technologies continue to evolve at a rapid pace, there is relatively little attention given to how we as humans are transforming in this new world.",
     "areas": [
       "AI Systems and Ethics",
       "Multi-Agent Systems",
@@ -121,11 +92,11 @@
     ],
     "faculty": [
       {
-        "name": "Prof. Srinath Srinivasa",
+        "name": "Srinath Srinivasa",
         "email": "sri@iiitb.ac.in"
       },
-  	  {
-    		"name": "Prof. Sushree Behera",
+      {
+        "name": "Sushree Behera",
         "email": "sushree.behera@iiitb.ac.in"
       }
     ]
@@ -140,22 +111,22 @@
     ],
     "faculty": [
       {
-        "name": "Prof. Debabrata Das",
-        "email": "Sharvari.R@iiitb.ac.in"
+        "name": "Debabrata Das",
+        "email": "dDas@iiitb.ac.in"
       },
-	  {
-        "name": "Prof. Jyotsna Bapat",
+      {
+        "name": "Jyotsna Bapat",
         "email": "jbapat@iiitb.ac.in"
       },
-	  {
-        "name": "Prof. Amrita Mishra",
+      {
+        "name": "Amrita Mishra",
         "email": "amrita.mishra@iiitb.ac.in"
       }
     ]
   },
   {
     "name": "Graph-Geometry-Topology Lab (GGTL)",
-    "description": "GGTL engages in the exploration of fundamental questions within the domains of Algorithmic Graph Theory, Computational Geometry, and Computational Topology. The problems addressed by GGTL are well-motivated by their applications in Topological Data Analysis, Robotics, Networks, and Wireless Communication. The emphasis of the research conducted at GGTL is on the design of algorithms that are not only efficient but also provide mathematical guarantees for their effectiveness in addressing the challenges encountered in these fields.\n\nCurrently, GGTL comprises four PhD students and one MS (Research) student, in addition to several integrated MTech and MTech students.",
+    "description": "GGTL engages in the exploration of fundamental questions within the domains of Algorithmic Graph Theory, Computational Geometry, and Computational Topology. The problems addressed by GGTL are well-motivated by their applications in Topological Data Analysis, Robotics, Networks, and Wireless Communication. The emphasis of the research conducted at GGTL is on the design of algorithms that are not only efficient but also provide mathematical guarantees for their effectiveness in addressing the challenges encountered in these fields.",
     "areas": [
       "Algorithmic Graph Theory",
       "Computational Geometry",
@@ -166,26 +137,25 @@
     ],
     "faculty": [
       {
-        "name": "Prof. Pradeesha Ashok",
+        "name": "Pradeesha Ashok",
         "email": "Pradeesha@iiitb.ac.in"
       },
-	  {
-        "name": "Prof. Amit Chattopadhyay",
+      {
+        "name": "Amit Chattopadhyay",
         "email": "a.chattopadhyay@iiitb.ac.in"
       }
     ]
   },
   {
     "name": "Thin Film Flow Modeling and Instabilities Lab (TFFMIL)",
-    "description": "Our research group is committed to revolutionizing the understanding of the flow of thin films, their instabilities, interactions with complex surfaces, the effect of different body/external forces like electric, magnetic, or temperature fields, contamination like soluble/insoluble surfactant effects, and for various types of fluid rheologies, Newtonian and non-Newtonian. By developing cutting-edge analytical and semi-analytical mathematical models and advanced numerical techniques, we delve into hydrodynamics, interfacial phenomena, and flow control across a wide range of applications, from microfluidics to porous media. Our mission is to drive innovation toward sustainable technologies that address pressing energy and environmental challenges. Join us as we pave the way for a more efficient and sustainable future.",
+    "description": "Our research group is committed to revolutionizing the understanding of the flow of thin films, their instabilities, interactions with complex surfaces, the effect of different body/external forces like electric, magnetic, or temperature fields, contamination like soluble/insoluble surfactant effects, and for various types of fluid rheologies, Newtonian and non-Newtonian. By developing cutting-edge analytical and semi-analytical mathematical models and advanced numerical techniques, we delve into hydrodynamics, interfacial phenomena, and flow control across a wide range of applications, from microfluidics to porous media.",
     "areas": [
-      "Area: Fluid Mechanics",
-      "Sub-Area: Mathematical  Modelling and Computing",
+      "Mathematical Modelling and Computing",
       "Dynamics and Instabilities of Thin Film Flow"
     ],
     "faculty": [
       {
-        "name": "Prof. Sanghasri Mukhopadhyay",
+        "name": "Sanghasri Mukhopadhyay",
         "email": "Sanghasri.M@iiitb.ac.in"
       }
     ]
@@ -200,7 +170,7 @@
     ],
     "faculty": [
       {
-        "name": "Prof. Amit Prakash",
+        "name": "Amit Prakash",
         "email": "kartik.joshi@iiitb.ac.in"
       }
     ]
@@ -217,14 +187,14 @@
     ],
     "faculty": [
       {
-        "name": "Prof. Raghuram Bharadwaj Diddigi",
-        "email": "raghuram.bharadwaj@iiitb.ac.in"
+        "name": "Raghuram Bharadwaj Diddigi",
+        "email": "chainesh.gautam@iiitb.ac.in"
       }
     ]
   },
   {
     "name": "Scalable Data Science and AI (ScaDS.ai) Lab",
-    "description": "The Scalable Data Science (ScaDS) Lab was established by Prof. Vinu E. Venugopal in 2021 at the International Institute of Information Technology Bangalore (IIITB). Our research team is dedicated to creating scalable solutions for a variety of big data challenges. Our current research efforts are concentrated on two main areas: 1. Advancing Neuro-Symbolic AI: We are developing robust AI algorithms to enhance reasoning capabilities. 2. Distributed Streaming Data Systems: We are designing architectures to efficiently process spanning events, which are events associated with a time interval rather than a single timestamp.",
+    "description": "The Scalable Data Science (ScaDS) Lab was established by Prof. Vinu E. Venugopal in 2021 at the International Institute of Information Technology Bangalore (IIITB). Our research team is dedicated to creating scalable solutions for a variety of big data challenges. Our current research efforts are concentrated on two main areas: 1. Advancing Neuro-Symbolic AI: We are developing robust AI algorithms to enhance reasoning capabilities. 2. Distributed Streaming Data Systems: We are designing architectures to efficiently process spanning events.",
     "areas": [
       "Big Data",
       "Neuro-symbolic AI",
@@ -234,8 +204,219 @@
     ],
     "faculty": [
       {
-        "name": "Prof. Vinu Ellampallil Venugopal",
+        "name": "Vinu Ellampallil Venugopal",
         "email": "vinu.ev@iiitb.ac.in"
+      }
+    ]
+  },
+  {
+    "name": "E-Health Research Center (EHRC)",
+    "description": "Applied research in leveraging digital technologies to improve delivery of health care services, with a focus on mental health, malnutrition and disabilities, and on public health. The center is involved in multiple inter-disciplinary research programs in collaboration with leading medical establishments and with the national and state governments.",
+    "areas": [
+      "Public health systems",
+      "medical image analysis",
+      "visual data exploration",
+      "assistive devices",
+      "robotic surgery",
+      "health data privacy"
+    ],
+    "faculty": [
+      {
+        "name": "T K Srikanth",
+        "email": "tk.srikanth@iiitb.ac.in"
+      },
+      {
+        "name": "Jaya Sreevalsan Nair",
+        "email": "jaya@iiitb.ac.in"
+      },
+      {
+        "name": "Amit Prakash",
+        "email": "amit.prakash@iiitb.ac.in"
+      },
+      {
+        "name": "Madhav Rao",
+        "email": "madhav.rao@iiitb.ac.in"
+      },
+      {
+        "name": "Akash Narayana",
+        "email": "akash.narayana@iiitb.ac.in"
+      }
+    ]
+  },
+  {
+    "name": "COMET Lab",
+    "description": "The lab focuses on embedded system design for 5G and beyond wireless communication system design.",
+    "areas": [
+      "Wireless communication"
+    ],
+    "faculty": [
+      {
+        "name": "Prem Singh",
+        "email": "prem.singh@iiitb.ac.in"
+      }
+    ]
+  },
+  {
+    "name": "Computational Fluid Dynamics Lab",
+    "description": "Our lab's current research activity is in the area of simulations and modelling of three dimensional Hydrodynamic and magnetohydrodynamic turbulent flows. These include rotating turbulent flows as well. We are now trying to understand some of the topological properties of the flow through the use of computational topology.",
+    "areas": [
+      "Simulations of 3D HD and MHD turbulent flows",
+      "Quantum Internet protocols"
+    ],
+    "faculty": [
+      {
+        "name": "Shiva Kumar Malapaka",
+        "email": "malapaka@iiitb.ac.in"
+      }
+    ]
+  },
+  {
+    "name": "Intelligent Hardware and System lab",
+    "description": "Our lab focuses on optimizing hardware accelerators for a range of applications, including CNNs, cryptography, and ML, by designing efficient multiplier architectures, systolic arrays, and error-balanced automation flows.",
+    "areas": [
+      "ML",
+      "CNN",
+      "Neuromorphic System",
+      "Cryptography",
+      "Optimization"
+    ],
+    "faculty": [
+      {
+        "name": "Madhav Rao",
+        "email": "pruthvi.parate@iiitb.ac.in"
+      }
+    ]
+  },
+  {
+    "name": "Software Engineering and Analysis Lab",
+    "description": "We work on the formal aspects of software engineering, in particular, formal verification, program analysis and software testing. We apply these analysis techniques to a variety of applications, e.g. web applications, DPIs and AI/ML systems.",
+    "areas": [
+      "Formal verification",
+      "Program analysis",
+      "Software testing"
+    ],
+    "faculty": [
+      {
+        "name": "Sujit Kumar Chakrabarti",
+        "email": "sujitkc@iiitb.ac.in"
+      },
+      {
+        "name": "Meenakshi D'Souza",
+        "email": "meenakshi@iiitb.ac.in"
+      }
+    ]
+  },
+  {
+    "name": "AutoGrow Lab",
+    "description": "In the lab we carry out experimental research to grow plants autonomously by use of IoT and AI/ML.",
+    "areas": [
+      "AgriTech",
+      "Precision farming",
+      "Autonomous Agriculture"
+    ],
+    "faculty": [
+      {
+        "name": "Ramesh Kestur",
+        "email": "rameshkestur@iiitb.ac.in"
+      },
+      {
+        "name": "Madhav Rao",
+        "email": "madhav.rao@iiitb.ac.in"
+      }
+    ]
+  },
+  {
+    "name": "Speech Lab",
+    "description": "Our work is centrally on ASR (Automatic Speech Recognition), spanning topics such as multi-lingual ASR with Indian languages applications, end-to-end (E2E) ASR architectures, attention mechanisms, unsupervised representation learning for low-resource ASR, analysis-by-synthesis frameworks for ASR, few-shot learning (FSL) for E2E ASR, associative memory formulations, multi-modal associative learning and cross-domain speech recognition.",
+    "areas": [
+      "Automatic Speech Recognition",
+      "Associative Memory Formulations",
+      "Machine Learning",
+      "Deep Learning",
+      "Few-Shot Learning",
+      "Self-Supervised Learning"
+    ],
+    "faculty": [
+      {
+        "name": "V. Ramasubramanian",
+        "email": "v.ramasubramanian@iiitb.ac.in"
+      }
+    ]
+  },
+  {
+    "name": "Center for Technology Research and Innovation for Digital Governance (CTRI-DG)",
+    "description": "CTRI-DG is set-up by Center for E-Governance, Govt of Karnataka for carrying out cutting-edge research across the entire spectrum of software engineering.",
+    "areas": [
+      "Model-based software engineering",
+      "software architecture",
+      "formal verification & validation",
+      "modern software engineering practices including devlops",
+      "cloud"
+    ],
+    "faculty": [
+      {
+        "name": "Chandrashekar R",
+        "email": "rc@iiitb.ac.in"
+      },
+      {
+        "name": "Sujit Kumar Chakrabarti",
+        "email": "sujitkc@iiitb.ac.in"
+      },
+      {
+        "name": "Meenakshi D'Souza",
+        "email": "meenakshi@iiitb.ac.in"
+      },
+      {
+        "name": "Thangaraju S",
+        "email": "thangaraju.s@iiitb.ac.in"
+      },
+      {
+        "name": "Srikanth T K",
+        "email": "tk.srikanth@iiitb.ac.in"
+      },
+      {
+        "name": "Sridhar V",
+        "email": "sridhar.v@iiitb.ac.in"
+      },
+      {
+        "name": "Vivek Yadav",
+        "email": "vivek.yadav@iiitb.ac.in"
+      }
+    ]
+  },
+  {
+    "name": "Advanced Wireless Communications Lab",
+    "description": "The \"Advanced Wireless Communications Lab\" is focused on developing next generation wireless communication technologies (e.g., MIMO technologies, Cognitive Radio technologies, Cooperative Communication, Physical Layer Security, Energy Harvesting Networks, Green Communication, mmWave communication systems, and Intelligent Reflecting Surfaces). Emphasis will be on building new wireless communication systems and development of new technologies with their performance analyses.",
+    "areas": [
+      "MIMO technologies",
+      "Cognitive Radio technologies",
+      "Cooperative Communication",
+      "Physical Layer Security",
+      "Energy Harvesting Networks",
+      "Green Communication",
+      "mmWave communication systems",
+      "Intelligent Reflecting Surfaces"
+    ],
+    "faculty": [
+      {
+        "name": "Priyanka Das",
+        "email": "priyanka.das@iiitb.ac.in"
+      }
+    ]
+  },
+  {
+    "name": "Center for Internet of Ethical Things (CIET)",
+    "description": "The Center for Internet of Ethical Things (CIET) was established with a clear mission to drive research, innovation, and development in the rapidly evolving field of Internet of Things (IoT) technologies. As IoT continues to integrate into every facet of our lives—from smart homes and cities to healthcare and industry—the importance of addressing the ethical and moral implications of these technologies has become increasingly vital.",
+    "areas": [
+      "Ethics",
+      "Ethics by Design",
+      "Ethical Software",
+      "Software Architecture"
+    ],
+    "faculty": [
+      {
+        "name": "Chandrashekar Ramanathan",
+        "email": "apurva.kulkarni@iiitb.ac.in"
       }
     ]
   },
@@ -247,31 +428,31 @@
     ],
     "faculty": [
       {
-        "name": "Prof. Sridhar Pillalamarri",
-        "email": "amudheesan.nakkeeran@iiitb.ac.in"
+        "name": "Sridhar Pillalamarri",
+        "email": "sridhar.p@iiitb.ac.in"
       },
-	  {
-        "name": "Prof. Ajay Bakre",
+      {
+        "name": "Ajay Bakre",
         "email": "ajay.bakre@iiitb.ac.in"
       },
-	  {
-        "name": "Prof. Jyotsna Bapat",
+      {
+        "name": "Jyotsna Bapat",
         "email": "jbapat@iiitb.ac.in"
       },
-	  {
-        "name": "Prof. Prem Singh",
+      {
+        "name": "Prem Singh",
         "email": "prem.singh@iiitb.ac.in"
       },
-	  {
-        "name": "Prof. Vinod Veera Reddy",
+      {
+        "name": "Vinod Reddy",
         "email": "vinod.reddy@iiitb.ac.in"
       },
-	  {
-        "name": "Prof. Priyanka Das",
+      {
+        "name": "Priyanka Das",
         "email": "priyanka.das@iiitb.ac.in"
       },
-	  {
-        "name": "Prof. Amrita Mishra",
+      {
+        "name": "Amrita Mishra",
         "email": "amrita.mishra@iiitb.ac.in"
       }
     ]
