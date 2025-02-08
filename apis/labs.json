@@ -21,9 +21,9 @@
     "description": "The areas of theoretical research of the CSSMP group are interdisciplinary, principally in nonlinear dynamics, soft matter & complex fluids, physics of living systems, modelling of complex systems at different scales and aspects of quantum computing.",
     "areas": [
       "Complex systems",
-      "nonlinear dynamics",
-      "soft matter physics",
-      "aspects of quantum computing"
+      "Nonlinear dynamics",
+      "Soft matter physics",
+      "Aspects of quantum computing"
     ],
     "faculty": [
       {
@@ -401,6 +401,35 @@
       {
         "name": "Priyanka Das",
         "email": "priyanka.das@iiitb.ac.in"
+      }
+    ]
+  },
+  {
+    "name": "Center for Technology Research and Innovation for Digital Governance (CTRI-DG)",
+    "description": "CTRI-DG, or the Center for Technology Research and Innovation (Digital Governance), is a lab funded by the Center for e-Governance, Government of Karnataka. Our focus is on enhancing the efficiency of software application development and maintenance. To achieve this, we are building RASP (Rapid Software Development Platform), a model-driven low-code platform.",
+    "areas": [
+      "Model based low-code platform",
+      "Automated Code generation",
+      "Automated Test Case generation",
+      "DevOps",
+      "Generative AI",
+      "Model-based software engineering",
+      "Software architecture",
+      "Formal verification & validation",
+      "Cloud computing"
+    ],
+    "faculty": [
+      {
+        "name": "Chandrashekar Ramanathan",
+        "email": "rc@iiitb.ac.in"
+      },
+      {
+        "name": "Vivek Yadav",
+        "email": "vivek.yadav@iiitb.ac.in"
+      },
+      {
+        "name": "Sumanth S",
+        "email": "sumanth.s@iiitb.ac.in"
       }
     ]
   },
