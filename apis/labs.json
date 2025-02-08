@@ -4,9 +4,9 @@
     "description": "Radar Sensing Lab works in the broad spectrum of applications of radar. In particular, the team currently works on problems specific to automotive, medical, and communication applications. The availability of off-the-shelf radars has enabled us to explore new problems and their applicability. We work closely with the industry and are open to collaboration with universities and government organizations. The team and infrastructure are progressively growing to accept challenging problems and solve them.",
     "areas": [
       "Signal Processing for radars adopted in applications related to automotive",
-      "medical",
-      "human activity recognition",
-      "imaging",
+      "Medical",
+      "Human activity recognition",
+      "Imaging",
       "ISAC"
     ],
     "faculty": [
@@ -214,11 +214,11 @@
     "description": "Applied research in leveraging digital technologies to improve delivery of health care services, with a focus on mental health, malnutrition and disabilities, and on public health. The center is involved in multiple inter-disciplinary research programs in collaboration with leading medical establishments and with the national and state governments.",
     "areas": [
       "Public health systems",
-      "medical image analysis",
-      "visual data exploration",
-      "assistive devices",
-      "robotic surgery",
-      "health data privacy"
+      "Medical image analysis",
+      "Visual data exploration",
+      "Assistive devices",
+      "Robotic surgery",
+      "Health data privacy"
     ],
     "faculty": [
       {
@@ -348,10 +348,10 @@
     "description": "CTRI-DG is set-up by Center for E-Governance, Govt of Karnataka for carrying out cutting-edge research across the entire spectrum of software engineering.",
     "areas": [
       "Model-based software engineering",
-      "software architecture",
-      "formal verification & validation",
-      "modern software engineering practices including devlops",
-      "cloud"
+      "Software architecture",
+      "Formal verification & validation",
+      "Modern software engineering practices including devlops",
+      "Cloud"
     ],
     "faculty": [
       {
