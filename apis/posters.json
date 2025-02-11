@@ -1,81 +1,723 @@
 [
   {
-    "roomNumber": "R101",
-    "location": "Academic Block - First Floor",
+    "roomNumber": "R-303",
+    "location": "Academic Block",
     "posters": [
       {
-        "title": "AI-Driven Healthcare: Early Disease Detection Using Deep Learning",
-        "presenters": ["Aditya Kumar", "Priya Sharma"],
-        "abstract": "A novel approach to early disease detection using deep learning models trained on medical imaging data.",
-        "domain": "Healthcare AI",
-        "hasDemo": true
+        "title": "Topology Perserving Dimensionality Reduction",
+        "presenters": [
+          "Karthikeya Subramanian"
+        ],
+        "abstract": "",
+        "domain": "CSE",
+        "hasDemo": false
       },
       {
-        "title": "Predictive Analytics in Healthcare",
-        "presenters": ["Rahul Mehta"],
-        "abstract": "Implementation of predictive models for patient outcome analysis and treatment planning.",
-        "domain": "Healthcare AI",
+        "title": "Topological Data Analysis: Reeb graph based distance measures",
+        "presenters": [
+          "Althaf P V"
+        ],
+        "abstract": "",
+        "domain": "CSE",
+        "hasDemo": false
+      },
+      {
+        "title": "Uncertainty Estimation in Point Clouds",
+        "presenters": [
+          "KRISHNAKUMAR N",
+          "Birendra Kumar",
+          "Vidish Trivedi",
+          "Arjun Subhedar"
+        ],
+        "abstract": "",
+        "domain": "DSAI",
+        "hasDemo": false
+      },
+      {
+        "title": "Mental healthcare in the times of climate change action and Data Science",
+        "presenters": [
+          "Beryl Gnanaraj"
+        ],
+        "abstract": "",
+        "domain": "DSAI",
+        "hasDemo": false
+      },
+      {
+        "title": "Coastline Classification-Extraction from SAR images using CNN-U-Net combination",
+        "presenters": [
+          "Aswathi"
+        ],
+        "abstract": "",
+        "domain": "DSAI",
+        "hasDemo": false
+      },
+      {
+        "title": "CMA: An end-to-end system for reverse engineering chloropleth map images",
+        "presenters": [
+          "Prince Butani"
+        ],
+        "abstract": "",
+        "domain": "DSAI",
+        "hasDemo": false
+      },
+      {
+        "title": "A Specification Based Automated Test Generation Algorithm for Web Clients",
+        "presenters": [
+          "Vihan"
+        ],
+        "abstract": "",
+        "domain": "CSE",
+        "hasDemo": false
+      },
+      {
+        "title": "A Specification Based Automated Test Generation Algorithm for RESTful APIs",
+        "presenters": [
+          "Ramsai Koushik Polisetti"
+        ],
+        "abstract": "",
+        "domain": "CSE",
+        "hasDemo": false
+      },
+      {
+        "title": "Spatiotemporal Analysis of Urban Expansion and Road Networks in Bangalore",
+        "presenters": [
+          "Rahisha Thottolil"
+        ],
+        "abstract": "",
+        "domain": "DSAI",
+        "hasDemo": false
+      },
+      {
+        "title": "Continual Learning for Geospatial Applications: Challenges, Solutions, and Future Directions",
+        "presenters": [
+          "Indu Solomon"
+        ],
+        "abstract": "",
+        "domain": "DSAI",
+        "hasDemo": false
+      },
+      {
+        "title": "Transforming Agricultural Data into Actionable Insights",
+        "presenters": [
+          "Deeksha Aggarwal",
+          "Yash Mittal"
+        ],
+        "abstract": "",
+        "domain": "DSAI",
+        "hasDemo": false
+      },
+      {
+        "title": "Few-shot Learning based E2E ASR",
+        "presenters": [
+          "Dhanya Eledath"
+        ],
+        "abstract": "",
+        "domain": "DSAI",
         "hasDemo": false
       }
     ]
   },
   {
-    "roomNumber": "R102",
-    "location": "Academic Block - First Floor",
+    "roomNumber": "R-307",
+    "location": "Academic Block",
     "posters": [
       {
-        "title": "Secure Blockchain Framework for IoT Devices",
-        "presenters": ["Rahul Verma"],
-        "abstract": "Implementation of a lightweight blockchain framework designed specifically for IoT devices.",
-        "domain": "Blockchain",
-        "hasDemo": true
+        "title": "hbcLock: Encrypted RF Communication Utilizing Body-Coupled Keys for the Internet of Bodies",
+        "presenters": [
+          "Soumick Majumdar"
+        ],
+        "abstract": "",
+        "domain": "VLSI",
+        "hasDemo": false
       },
       {
-        "title": "Smart Contract Security Analysis",
-        "presenters": ["Sneha Reddy", "Arjun Kumar"],
-        "abstract": "Novel approaches to detecting vulnerabilities in smart contracts using static analysis.",
-        "domain": "Blockchain",
-        "hasDemo": true
-      }
-    ]
-  },
-  {
-    "roomNumber": "R103",
-    "location": "Academic Block - Second Floor",
-    "posters": [
-      {
-        "title": "Natural Language Processing for Indian Languages",
-        "presenters": ["Sneha Patel", "Mohammed Khan"],
-        "abstract": "Development of NLP models optimized for processing and understanding Indian languages.",
-        "domain": "NLP",
-        "hasDemo": true
+        "title": "Physically unclonable functions(PUF) for hardware security in IOT nodes",
+        "presenters": [
+          "DILLI BABU PORLAPOTHULA"
+        ],
+        "abstract": "",
+        "domain": "VLSI",
+        "hasDemo": false
       },
       {
-        "title": "Cross-Lingual Transfer Learning",
-        "presenters": ["Ankit Shah"],
-        "abstract": "Innovative approaches to transfer learning across different Indian languages.",
-        "domain": "NLP",
+        "title": "PyBlkSim",
+        "presenters": [
+          "Bijeet Basak"
+        ],
+        "abstract": "",
+        "domain": "VLSI",
+        "hasDemo": false
+      },
+      {
+        "title": "A Single Lead ECG Emulator",
+        "presenters": [
+          "Malobi Mukherjee"
+        ],
+        "abstract": "",
+        "domain": "VLSI",
+        "hasDemo": false
+      },
+      {
+        "title": "Convolutional Neural Network-Based Channel Estimation for mmWave MIMO-OTFS Systems",
+        "presenters": [
+          "B. Lohini Priyanka"
+        ],
+        "abstract": "",
+        "domain": "NCSP",
         "hasDemo": false
       }
     ]
   },
   {
-    "roomNumber": "R104",
-    "location": "Academic Block - Second Floor",
+    "roomNumber": "R-304",
+    "location": "Academic Block",
     "posters": [
       {
-        "title": "Quantum Computing Applications in Cryptography",
-        "presenters": ["Arjun Reddy"],
-        "abstract": "Exploring the potential applications of quantum computing in modern cryptographic systems.",
-        "domain": "Quantum Computing",
-        "hasDemo": true
+        "title": "Spike Decoders for Regressing Arm Angle for Autonomous Stroke Rehabilitation System",
+        "presenters": [
+          "Phani Pavan K"
+        ],
+        "abstract": "",
+        "domain": "VLSI",
+        "hasDemo": false
       },
       {
-        "title": "Post-Quantum Cryptography Implementations",
-        "presenters": ["Neha Gupta", "Raj Sharma"],
-        "abstract": "Implementation and analysis of post-quantum cryptographic algorithms.",
-        "domain": "Quantum Computing",
-        "hasDemo": true
+        "title": "Optimized Custom eFPGA Architecture Design Flow",
+        "presenters": [
+          "Bhargav D V"
+        ],
+        "abstract": "",
+        "domain": "VLSI",
+        "hasDemo": false
+      },
+      {
+        "title": "Optimized Multipliers for Efficient Cryptographic Processors",
+        "presenters": [
+          "Pruthvi Parate"
+        ],
+        "abstract": "",
+        "domain": "VLSI",
+        "hasDemo": false
+      },
+      {
+        "title": "Murmur: A Secure and Low-Energy Audio Communication for the Internet of Bodies",
+        "presenters": [
+          "Phani Pavan K"
+        ],
+        "abstract": "",
+        "domain": "VLSI",
+        "hasDemo": false
+      },
+      {
+        "title": "LUTAccel: Look-up-Table based Vector Systolic Accelerator on FPGAs",
+        "presenters": [
+          "Aashish Kumar Tiwary"
+        ],
+        "abstract": "",
+        "domain": "VLSI",
+        "hasDemo": false
+      },
+      {
+        "title": "Design Methodology for Analog Circuit Design",
+        "presenters": [
+          "Sakshi Arora"
+        ],
+        "abstract": "",
+        "domain": "VLSI",
+        "hasDemo": false
+      }
+    ]
+  },
+  {
+    "roomNumber": "R-312",
+    "location": "Academic Block",
+    "posters": [
+      {
+        "title": "A system and method for DTX feedback for HARQ in wireless communication",
+        "presenters": [
+          "Vishal"
+        ],
+        "abstract": "",
+        "domain": "NCSP",
+        "hasDemo": false
+      },
+      {
+        "title": "Hardware architecture design and development for 5G-NR downlink data channel",
+        "presenters": [
+          "Samudrala Soujanya"
+        ],
+        "abstract": "",
+        "domain": "NCSP",
+        "hasDemo": false
+      },
+      {
+        "title": "Enhancing Physical Layer Security in MIMO-OTFS-RIS Systems with Optimal Power Allocation Against Multiple Eavesdroppers",
+        "presenters": [
+          "Suhail Farhaan Shaik"
+        ],
+        "abstract": "",
+        "domain": "NCSP",
+        "hasDemo": false
+      },
+      {
+        "title": "Target Detection for OTFS-Aided Cell-Free MIMO ISAC System",
+        "presenters": [
+          "Shivani Singh"
+        ],
+        "abstract": "",
+        "domain": "NCSP",
+        "hasDemo": false
+      },
+      {
+        "title": "Multi-Criteria Scheduler for Prime and Non-Prime Users in 5G/6G Networks Using Perceptron-Based Machine Learning",
+        "presenters": [
+          "Rajesh Kumar Mahato"
+        ],
+        "abstract": "",
+        "domain": "NCSP",
+        "hasDemo": false
+      },
+      {
+        "title": "Throughput efficient dynamic spectrum sharing between 4G-LTE and 5G-NR using LTE CRS",
+        "presenters": [
+          "Goutham L"
+        ],
+        "abstract": "",
+        "domain": "NCSP",
+        "hasDemo": false
+      },
+      {
+        "title": "Spectral Concentration Problem: Tracing key ideas across the vast landscape",
+        "presenters": [
+          "Raghavendra D R"
+        ],
+        "abstract": "",
+        "domain": "NCSP",
+        "hasDemo": false
+      },
+      {
+        "title": "KAN-powered large target detection for automotive radar",
+        "presenters": [
+          "Vinay Kulkarni"
+        ],
+        "abstract": "",
+        "domain": "NCSP",
+        "hasDemo": false
+      }
+    ]
+  },
+  {
+    "roomNumber": "R-204",
+    "location": "Academic Block",
+    "posters": [
+      {
+        "title": "Deep Learning-Driven Enhancements for Mapping and Odometry in Visual SLAM Systems",
+        "presenters": [
+          "Prateeth Rao"
+        ],
+        "abstract": "",
+        "domain": "DSAI",
+        "hasDemo": false
+      },
+      {
+        "title": "Trochoidal Paths and Collision Cones",
+        "presenters": [
+          "Prateeth Rao"
+        ],
+        "abstract": "",
+        "domain": "CSE",
+        "hasDemo": false
+      },
+      {
+        "title": "Representation Learning using Graphs",
+        "presenters": [
+          "Monish K"
+        ],
+        "abstract": "",
+        "domain": "DSAI",
+        "hasDemo": false
+      },
+      {
+        "title": "Localization and Navigation of Mobile robots",
+        "presenters": [
+          "Viswajiit Chezhian"
+        ],
+        "abstract": "",
+        "domain": "CSE",
+        "hasDemo": false
+      }
+    ]
+  },
+  {
+    "roomNumber": "MINRO LAB",
+    "location": "Academic Block",
+    "posters": [
+      {
+        "title": "SemUV: Deep Learning based semantic manipulation over UV texture map of virtual human heads",
+        "presenters": [
+          "Anirban Mukherjee"
+        ],
+        "abstract": "",
+        "domain": "DSAI",
+        "hasDemo": false
+      },
+      {
+        "title": "Generalised Few shot semantic segmentation",
+        "presenters": [
+          "Anuska Roy"
+        ],
+        "abstract": "",
+        "domain": "DSAI",
+        "hasDemo": false
+      }
+    ]
+  },
+  {
+    "roomNumber": "EHRC",
+    "location": "Academic Block",
+    "posters": [
+      {
+        "title": "Oral pathology image classification using vision language model",
+        "presenters": [
+          "Anwesh Nayak"
+        ],
+        "abstract": "",
+        "domain": "DSAI",
+        "hasDemo": false
+      },
+      {
+        "title": "SmileAgain",
+        "presenters": [
+          "Prabhas"
+        ],
+        "abstract": "",
+        "domain": "DSAI",
+        "hasDemo": false
+      },
+      {
+        "title": "Oral lesion classification using Multi-modal large language models",
+        "presenters": [
+          "Anwesh Nayak"
+        ],
+        "abstract": "",
+        "domain": "DSAI",
+        "hasDemo": false
+      }
+    ]
+  },
+  {
+    "roomNumber": "Not decided",
+    "location": "Academic Block",
+    "posters": [
+      {
+        "title": "SD-WAN mainstream traffic optimization during network congestion",
+        "presenters": [
+          "Pavan Iddalagi"
+        ],
+        "abstract": "",
+        "domain": "NCSP",
+        "hasDemo": false
+      },
+      {
+        "title": "Channel Estimation in IRS-aided mmWave MIMO Systems",
+        "presenters": [
+          "Sanjana T"
+        ],
+        "abstract": "",
+        "domain": "NCSP",
+        "hasDemo": false
+      },
+      {
+        "title": "Multi-RIS-based Target Positioning in Passive Radars",
+        "presenters": [
+          "Soumaditya Chaudhuri"
+        ],
+        "abstract": "",
+        "domain": "NCSP",
+        "hasDemo": false
+      },
+      {
+        "title": "Of nonlinear springs & muscles: stiffness of confined semi-flexible polyelectrolyte chains in physiological condition",
+        "presenters": [
+          "Jobin Josey"
+        ],
+        "abstract": "",
+        "domain": "Physics and Mathematics",
+        "hasDemo": false
+      },
+      {
+        "title": "Revisiting Plant Water Transport: A Soft Matter and Dynamical Systems Perspective",
+        "presenters": [
+          "Riddhika Mahalanabis"
+        ],
+        "abstract": "",
+        "domain": "Physics and Mathematics",
+        "hasDemo": false
+      },
+      {
+        "title": "Physics of complex systems",
+        "presenters": [
+          "Balakrishnan Ashok"
+        ],
+        "abstract": "",
+        "domain": "Physics and Mathematics",
+        "hasDemo": false
+      },
+      {
+        "title": "Engineering Privacy enabled software using Guardrail architecture",
+        "presenters": [
+          "Dr. Apurva Kulkarni"
+        ],
+        "abstract": "",
+        "domain": "CSE",
+        "hasDemo": false
+      },
+      {
+        "title": "AI That Explains: Proof Tree Construction with Transformer Models",
+        "presenters": [
+          "Aayushee Gupta"
+        ],
+        "abstract": "",
+        "domain": "DSAI",
+        "hasDemo": false
+      },
+      {
+        "title": "Multi Robot Motion Planning Without Collision",
+        "presenters": [
+          "Radhika Aggarwal"
+        ],
+        "abstract": "",
+        "domain": "CSE",
+        "hasDemo": false
+      },
+      {
+        "title": "Graph Burning: Measuring Spread of Contagion",
+        "presenters": [
+          "Radhika Aggarwal"
+        ],
+        "abstract": "",
+        "domain": "CSE",
+        "hasDemo": false
+      },
+      {
+        "title": "The position of timeliness against accuracy in fact checking",
+        "presenters": [
+          "Kanchan Kaur"
+        ],
+        "abstract": "",
+        "domain": "Digital Society",
+        "hasDemo": false
+      },
+      {
+        "title": "Digital Desires: Unpacking Dating App Dynamics in Urban India",
+        "presenters": [
+          "Aparna Sharma"
+        ],
+        "abstract": "",
+        "domain": "Digital Society",
+        "hasDemo": false
+      },
+      {
+        "title": "A Novel E2E Path Selection Algorithm for Superior QoS and QoE for 6G Services",
+        "presenters": [
+          "Yogita Pimpalkar"
+        ],
+        "abstract": "",
+        "domain": "NCSP",
+        "hasDemo": false
+      },
+      {
+        "title": "Novel Routing Techniques with E2E Network Slicing for Superior QoS and QoE in 6G Services",
+        "presenters": [
+          "Yogita Pimpalkar",
+          "Sharvari Ravindran"
+        ],
+        "abstract": "",
+        "domain": "NCSP",
+        "hasDemo": false
+      },
+      {
+        "title": "Scheduling for 6G",
+        "presenters": [
+          "Priyadarshini P R"
+        ],
+        "abstract": "",
+        "domain": "NCSP",
+        "hasDemo": false
+      },
+      {
+        "title": "AI based autonomous network management using IBN and ZTN approaches",
+        "presenters": [
+          "K.Tamizhelakkiya",
+          "Uma Maheswari Natarajan",
+          "Neelam Gupta",
+          "Dibakar Das"
+        ],
+        "abstract": "",
+        "domain": "NCSP",
+        "hasDemo": false
+      },
+      {
+        "title": "Secure Energy Harvesting MIMO Spectrum Sharing Networks",
+        "presenters": [
+          "Aditya Savalia"
+        ],
+        "abstract": "",
+        "domain": "NCSP",
+        "hasDemo": false
+      },
+      {
+        "title": "Exploring the Dynamics of Free Surface Waves on Thin Liquid Films: Insights and Applications",
+        "presenters": [
+          "Sanghasri Mukhopadhyay"
+        ],
+        "abstract": "",
+        "domain": "Physics and Mathematics",
+        "hasDemo": false
+      },
+      {
+        "title": "Helically Rotating Turbulence",
+        "presenters": [
+          "shiva kumar malapaka"
+        ],
+        "abstract": "",
+        "domain": "Physics and Mathematics",
+        "hasDemo": false
+      },
+      {
+        "title": "Quantum Internet",
+        "presenters": [
+          "shiva kumar malapaka"
+        ],
+        "abstract": "",
+        "domain": "Physics and Mathematics",
+        "hasDemo": false
+      },
+      {
+        "title": "Navigated Learning",
+        "presenters": [
+          "Praseeda"
+        ],
+        "abstract": "",
+        "domain": "DSAI",
+        "hasDemo": false
+      },
+      {
+        "title": "Anumati",
+        "presenters": [
+          "Praseeda"
+        ],
+        "abstract": "",
+        "domain": "DSAI",
+        "hasDemo": false
+      },
+      {
+        "title": "Cross Border Data Sharing",
+        "presenters": [
+          "Dev Shinde"
+        ],
+        "abstract": "",
+        "domain": "DSAI",
+        "hasDemo": false
+      },
+      {
+        "title": "Scenario search for vehicular traffic",
+        "presenters": [
+          "Bhoomika A P"
+        ],
+        "abstract": "",
+        "domain": "DSAI",
+        "hasDemo": false
+      },
+      {
+        "title": "Learning Intervention for Network Synchrony",
+        "presenters": [
+          "Ashashree Sarma"
+        ],
+        "abstract": "",
+        "domain": "DSAI",
+        "hasDemo": false
+      },
+      {
+        "title": "Deep Reinforcement Learning for Active Learning Maps",
+        "presenters": [
+          "Suhan Roy"
+        ],
+        "abstract": "",
+        "domain": "DSAI",
+        "hasDemo": false
+      },
+      {
+        "title": "Multi-modal Content Generation for Navigated Learning",
+        "presenters": [
+          "Rishita Patel"
+        ],
+        "abstract": "",
+        "domain": "DSAI",
+        "hasDemo": false
+      },
+      {
+        "title": "LoRa-Enabled Smart Energy Monitoring System",
+        "presenters": [
+          "Indhu Muthu"
+        ],
+        "abstract": "",
+        "domain": "NCSP",
+        "hasDemo": false
+      },
+      {
+        "title": "Digital Data Privacy and Consent: Tracing the Contours of an Emergent Social Contract",
+        "presenters": [
+          "Asilata Karandikar"
+        ],
+        "abstract": "",
+        "domain": "Digital Society",
+        "hasDemo": false
+      },
+      {
+        "title": "Impact of taxation on cross-border online gig work",
+        "presenters": [
+          "chandrima bhattacharya"
+        ],
+        "abstract": "",
+        "domain": "Digital Society",
+        "hasDemo": false
+      },
+      {
+        "title": "Scheduling for 6G systems",
+        "presenters": [
+          "Priyadarshini P R"
+        ],
+        "abstract": "",
+        "domain": "NCSP",
+        "hasDemo": false
+      },
+      {
+        "title": "Formal Verification of Neural Networks",
+        "presenters": [
+          "Sayak Chowdhury; Hardik Khandelwal"
+        ],
+        "abstract": "",
+        "domain": "CSE",
+        "hasDemo": false
+      },
+      {
+        "title": "Multi Robot Motion Planning Without Collision - Demo",
+        "presenters": [
+          "Radhika Aggarwal"
+        ],
+        "abstract": "",
+        "domain": "CSE",
+        "hasDemo": false
+      },
+      {
+        "title": "A design by Contact based formal specification language for Restful APIs",
+        "presenters": [
+          "Pranita Ganguly , Aira Jain "
+        ],
+        "abstract": "",
+        "domain": "CSE",
+        "hasDemo": false
       }
     ]
   }
