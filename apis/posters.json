@@ -484,16 +484,21 @@
       {
         "title": "Multi Robot Motion Planning Without Collision",
         "presenters": [
-          "Radhika Aggarwal"
+          "Radhika Aggarwal",
+          "Pradeesha Ashok",
+          "Vithya M",
+          "Nikita Kiran"
         ],
         "abstract": "",
         "domain": "CSE",
-        "hasDemo": false
+        "hasDemo": true
       },
       {
         "title": "Graph Burning: Measuring Spread of Contagion",
         "presenters": [
-          "Radhika Aggarwal"
+          "Radhika Aggarwal",
+          "Pradeesha Ashok",
+          "Dhariya Gupta"
         ],
         "abstract": "",
         "domain": "CSE",
@@ -696,15 +701,6 @@
         "title": "Formal Verification of Neural Networks",
         "presenters": [
           "Sayak Chowdhury; Hardik Khandelwal"
-        ],
-        "abstract": "",
-        "domain": "CSE",
-        "hasDemo": false
-      },
-      {
-        "title": "Multi Robot Motion Planning Without Collision - Demo",
-        "presenters": [
-          "Radhika Aggarwal"
         ],
         "abstract": "",
         "domain": "CSE",
