@@ -1,5 +1,104 @@
 [
   {
+    "roomNumber": "MINRO LAB",
+    "location": "Academic Block",
+    "posters": [
+      {
+        "title": "SemUV: Deep Learning based semantic manipulation over UV texture map of virtual human heads",
+        "presenters": [
+          "Anirban Mukherjee"
+        ],
+        "abstract": "",
+        "domain": "DSAI",
+        "hasDemo": false
+      },
+      {
+        "title": "Generalised Few shot semantic segmentation",
+        "presenters": [
+          "Anuska Roy"
+        ],
+        "abstract": "",
+        "domain": "DSAI",
+        "hasDemo": false
+      }
+    ]
+  },
+  {
+    "roomNumber": "EHRC",
+    "location": "Academic Block",
+    "posters": [
+      {
+        "title": "Oral pathology image classification using vision language model",
+        "presenters": [
+          "Anwesh Nayak"
+        ],
+        "abstract": "",
+        "domain": "DSAI",
+        "hasDemo": false
+      },
+      {
+        "title": "SmileAgain",
+        "presenters": [
+          "Prabhas"
+        ],
+        "abstract": "",
+        "domain": "DSAI",
+        "hasDemo": false
+      },
+      {
+        "title": "Oral lesion classification using Multi-modal large language models",
+        "presenters": [
+          "Anwesh Nayak"
+        ],
+        "abstract": "",
+        "domain": "DSAI",
+        "hasDemo": false
+      }
+    ]
+  },
+  {
+    "roomNumber": "R-204",
+    "location": "Academic Block",
+    "posters": [
+      {
+        "title": "Deep Learning-Driven Enhancements for Mapping and Odometry in Visual SLAM Systems",
+        "presenters": [
+          "Prateeth Rao"
+        ],
+        "abstract": "",
+        "domain": "DSAI",
+        "hasDemo": false
+      },
+      {
+        "title": "Trochoidal Paths and Collision Cones",
+        "presenters": [
+          "Prateeth Rao"
+        ],
+        "abstract": "",
+        "domain": "CSE",
+        "hasDemo": false
+      },
+      {
+        "title": "Representation Learning using Graphs",
+        "presenters": [
+          "Monish K"
+        ],
+        "abstract": "",
+        "domain": "DSAI",
+        "hasDemo": false
+      },
+      {
+        "title": "Localization and Navigation of Mobile robots",
+        "presenters": [
+          "Viswajiit Chezhian"
+        ],
+        "abstract": "",
+        "domain": "CSE",
+        "hasDemo": false
+      }
+    ]
+  },
+  {
     "roomNumber": "R-303",
     "location": "Academic Block",
     "posters": [
@@ -302,105 +401,6 @@
         ],
         "abstract": "",
         "domain": "NCSP",
-        "hasDemo": false
-      }
-    ]
-  },
-  {
-    "roomNumber": "R-204",
-    "location": "Academic Block",
-    "posters": [
-      {
-        "title": "Deep Learning-Driven Enhancements for Mapping and Odometry in Visual SLAM Systems",
-        "presenters": [
-          "Prateeth Rao"
-        ],
-        "abstract": "",
-        "domain": "DSAI",
-        "hasDemo": false
-      },
-      {
-        "title": "Trochoidal Paths and Collision Cones",
-        "presenters": [
-          "Prateeth Rao"
-        ],
-        "abstract": "",
-        "domain": "CSE",
-        "hasDemo": false
-      },
-      {
-        "title": "Representation Learning using Graphs",
-        "presenters": [
-          "Monish K"
-        ],
-        "abstract": "",
-        "domain": "DSAI",
-        "hasDemo": false
-      },
-      {
-        "title": "Localization and Navigation of Mobile robots",
-        "presenters": [
-          "Viswajiit Chezhian"
-        ],
-        "abstract": "",
-        "domain": "CSE",
-        "hasDemo": false
-      }
-    ]
-  },
-  {
-    "roomNumber": "MINRO LAB",
-    "location": "Academic Block",
-    "posters": [
-      {
-        "title": "SemUV: Deep Learning based semantic manipulation over UV texture map of virtual human heads",
-        "presenters": [
-          "Anirban Mukherjee"
-        ],
-        "abstract": "",
-        "domain": "DSAI",
-        "hasDemo": false
-      },
-      {
-        "title": "Generalised Few shot semantic segmentation",
-        "presenters": [
-          "Anuska Roy"
-        ],
-        "abstract": "",
-        "domain": "DSAI",
-        "hasDemo": false
-      }
-    ]
-  },
-  {
-    "roomNumber": "EHRC",
-    "location": "Academic Block",
-    "posters": [
-      {
-        "title": "Oral pathology image classification using vision language model",
-        "presenters": [
-          "Anwesh Nayak"
-        ],
-        "abstract": "",
-        "domain": "DSAI",
-        "hasDemo": false
-      },
-      {
-        "title": "SmileAgain",
-        "presenters": [
-          "Prabhas"
-        ],
-        "abstract": "",
-        "domain": "DSAI",
-        "hasDemo": false
-      },
-      {
-        "title": "Oral lesion classification using Multi-modal large language models",
-        "presenters": [
-          "Anwesh Nayak"
-        ],
-        "abstract": "",
-        "domain": "DSAI",
         "hasDemo": false
       }
     ]

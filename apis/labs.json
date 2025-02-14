@@ -405,35 +405,6 @@
     ]
   },
   {
-    "name": "Center for Technology Research and Innovation for Digital Governance (CTRI-DG)",
-    "description": "CTRI-DG, or the Center for Technology Research and Innovation (Digital Governance), is a lab funded by the Center for e-Governance, Government of Karnataka. Our focus is on enhancing the efficiency of software application development and maintenance. To achieve this, we are building RASP (Rapid Software Development Platform), a model-driven low-code platform.",
-    "areas": [
-      "Model based low-code platform",
-      "Automated Code generation",
-      "Automated Test Case generation",
-      "DevOps",
-      "Generative AI",
-      "Model-based software engineering",
-      "Software architecture",
-      "Formal verification & validation",
-      "Cloud computing"
-    ],
-    "faculty": [
-      {
-        "name": "Chandrashekar Ramanathan",
-        "email": "rc@iiitb.ac.in"
-      },
-      {
-        "name": "Vivek Yadav",
-        "email": "vivek.yadav@iiitb.ac.in"
-      },
-      {
-        "name": "Sumanth S",
-        "email": "sumanth.s@iiitb.ac.in"
-      }
-    ]
-  },
-  {
     "name": "Center for Internet of Ethical Things (CIET)",
     "description": "The Center for Internet of Ethical Things (CIET) was established with a clear mission to drive research, innovation, and development in the rapidly evolving field of Internet of Things (IoT) technologies. As IoT continues to integrate into every facet of our lives—from smart homes and cities to healthcare and industry—the importance of addressing the ethical and moral implications of these technologies has become increasingly vital.",
     "areas": [
@@ -483,6 +454,40 @@
       {
         "name": "Amrita Mishra",
         "email": "amrita.mishra@iiitb.ac.in"
+      }
+    ]
+  },
+  {
+    "name": "Spatial Computing Lab",
+    "description": "The Spatial Computing Laboratory at IIIT Bangalore aims to study general and specific topics in spatial computing, spatial data science/data mining, spatial databases, geo-statistical techniques and time-series forecasting models. The common thread in our research is to apply Advancements in Geospatial Technologies, Data Science, Artificial Intelligence and Statistical Methods to research problems at the interface of Computer Science and Spatio-Temporal Data of the Earth Observing Systems.",
+    "areas": [
+      "Machine learning and Deep learning in Geospatial Science",
+      "Time-series forecasting models",
+      "Spatio-temporal models",
+      "Urban growth modelling",
+      "Urban climate",
+      "SAR data analysis",
+      "UAV data analysis"
+    ],
+    "faculty": [
+      {
+        "name": "Rahisha Thottolil",
+        "email": "uttam@iiitb.ac.in"
+      }
+    ]
+  },
+  {
+    "name": "Connected Devices and Wearables Lab",
+    "description": "Our group focusses on researching hardware and systems for connected devices and wearables constituting Internet of Bodies (IoB). IoB is an extension of IoT, wherein connected things in, on and around the human body senses and share vital information about the body to remote servers in the cloud for continuous and long-time monitoring of the individual and surroundings.",
+    "areas": [
+      "Hardware Security",
+      "Edge AI/ML",
+      "Human Body Communication"
+    ],
+    "faculty": [
+      {
+        "name": "Kurian Polachan",
+        "email": "kurian.polachan@iiitb.ac.in"
       }
     ]
   }
