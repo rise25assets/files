@@ -391,42 +391,6 @@
     ]
   },
   {
-    "name": "Graph-Geometry-Topology Lab (GGTL)",
-    "description": "GGTL engages in the exploration of fundamental questions within the domains of Algorithmic Graph Theory, Computational Geometry, and Computational Topology. The problems addressed by GGTL are well-motivated by their applications in Topological Data Analysis, Robotics, Networks, and Wireless Communication. The emphasis of the research conducted at GGTL is on the design of algorithms that are not only efficient but also provide mathematical guarantees for their effectiveness in addressing the challenges encountered in these fields.",
-    "areas": [
-      "Algorithmic Graph Theory",
-      "Computational Geometry",
-      "Computational Topology",
-      "Data Analysis",
-      "Parameterised Algorithms",
-      "Approximation Algorithms"
-    ],
-    "faculty": [
-      {
-        "name": "Pradeesha Ashok",
-        "email": "Pradeesha@iiitb.ac.in"
-      },
-      {
-        "name": "Amit Chattopadhyay",
-        "email": "a.chattopadhyay@iiitb.ac.in"
-      }
-    ]
-  },
-  {
-    "name": "Thin Film Flow Modeling and Instabilities Lab (TFFMIL)",
-    "description": "Our research group is committed to revolutionizing the understanding of the flow of thin films, their instabilities, interactions with complex surfaces, the effect of different body/external forces like electric, magnetic, or temperature fields, contamination like soluble/insoluble surfactant effects, and for various types of fluid rheologies, Newtonian and non-Newtonian. By developing cutting-edge analytical and semi-analytical mathematical models and advanced numerical techniques, we delve into hydrodynamics, interfacial phenomena, and flow control across a wide range of applications, from microfluidics to porous media.",
-    "areas": [
-      "Mathematical Modelling and Computing",
-      "Dynamics and Instabilities of Thin Film Flow"
-    ],
-    "faculty": [
-      {
-        "name": "Sanghasri Mukhopadhyay",
-        "email": "Sanghasri.M@iiitb.ac.in"
-      }
-    ]
-  },
-  {
     "name": "Centre for Accessibility in the Global South",
     "description": "CAGS is a research-based multidisciplinary centre for disability studies, with a focus on the Global South. The centre focuses on creating a network and a shared platform for bridging together industry, academia and organizations working with people with disabilities, to create accessible solutions.",
     "areas": [
@@ -455,23 +419,6 @@
       {
         "name": "Raghuram Bharadwaj Diddigi",
         "email": "raghuram.bharadwaj@iiitb.ac.in"
-      }
-    ]
-  },
-  {
-    "name": "Scalable Data Science and AI (ScaDS.ai) Lab",
-    "description": "The Scalable Data Science (ScaDS) Lab was established by Prof. Vinu E. Venugopal in 2021 at the International Institute of Information Technology Bangalore (IIITB). Our research team is dedicated to creating scalable solutions for a variety of big data challenges. Our current research efforts are concentrated on two main areas: 1. Advancing Neuro-Symbolic AI: We are developing robust AI algorithms to enhance reasoning capabilities. 2. Distributed Streaming Data Systems: We are designing architectures to efficiently process spanning events.",
-    "areas": [
-      "Big Data",
-      "Neuro-symbolic AI",
-      "Explainable AI",
-      "Streaming Data Systems",
-      "Knowledge Graphs"
-    ],
-    "faculty": [
-      {
-        "name": "Vinu Ellampallil Venugopal",
-        "email": "vinu.ev@iiitb.ac.in"
       }
     ]
   },
@@ -519,116 +466,6 @@
       {
         "name": "Prem Singh",
         "email": "prem.singh@iiitb.ac.in"
-      }
-    ]
-  },
-  {
-    "name": "Computational Fluid Dynamics Lab",
-    "description": "Our lab's current research activity is in the area of simulations and modelling of three dimensional Hydrodynamic and magnetohydrodynamic turbulent flows. These include rotating turbulent flows as well. We are now trying to understand some of the topological properties of the flow through the use of computational topology.",
-    "areas": [
-      "Simulations of 3D HD and MHD turbulent flows",
-      "Quantum Internet protocols"
-    ],
-    "faculty": [
-      {
-        "name": "Shiva Kumar Malapaka",
-        "email": "malapaka@iiitb.ac.in"
-      }
-    ]
-  },
-  {
-    "name": "Intelligent Hardware and System lab",
-    "description": "Our lab focuses on optimizing hardware accelerators for a range of applications, including CNNs, cryptography, and ML, by designing efficient multiplier architectures, systolic arrays, and error-balanced automation flows.",
-    "areas": [
-      "ML",
-      "CNN",
-      "Neuromorphic System",
-      "Cryptography",
-      "Optimization"
-    ],
-    "faculty": [
-      {
-        "name": "Madhav Rao",
-        "email": "mr@iiitb.ac.in"
-      }
-    ]
-  },
-  {
-    "name": "Speech Lab",
-    "description": "Our work is centrally on ASR (Automatic Speech Recognition), spanning topics such as multi-lingual ASR with Indian languages applications, end-to-end (E2E) ASR architectures, attention mechanisms, unsupervised representation learning for low-resource ASR, analysis-by-synthesis frameworks for ASR, few-shot learning (FSL) for E2E ASR, associative memory formulations, multi-modal associative learning and cross-domain speech recognition.",
-    "areas": [
-      "Automatic Speech Recognition",
-      "Associative Memory Formulations",
-      "Machine Learning",
-      "Deep Learning",
-      "Few-Shot Learning",
-      "Self-Supervised Learning"
-    ],
-    "faculty": [
-      {
-        "name": "V. Ramasubramanian",
-        "email": "v.ramasubramanian@iiitb.ac.in"
-      }
-    ]
-  },
-  {
-    "name": "Center for Technology Research and Innovation for Digital Governance (CTRI-DG)",
-    "description": "CTRI-DG is set-up by Center for E-Governance, Govt of Karnataka for carrying out cutting-edge research across the entire spectrum of software engineering.",
-    "areas": [
-      "Model-based software engineering",
-      "Software architecture",
-      "Formal verification & validation",
-      "Modern software engineering practices including devlops",
-      "Cloud"
-    ],
-    "faculty": [
-      {
-        "name": "Chandrashekar R",
-        "email": "rc@iiitb.ac.in"
-      },
-      {
-        "name": "Sujit Kumar Chakrabarti",
-        "email": "sujitkc@iiitb.ac.in"
-      },
-      {
-        "name": "Meenakshi D'Souza",
-        "email": "meenakshi@iiitb.ac.in"
-      },
-      {
-        "name": "Thangaraju S",
-        "email": "thangaraju.s@iiitb.ac.in"
-      },
-      {
-        "name": "Srikanth T K",
-        "email": "tk.srikanth@iiitb.ac.in"
-      },
-      {
-        "name": "Sridhar V",
-        "email": "sridhar.v@iiitb.ac.in"
-      },
-      {
-        "name": "Vivek Yadav",
-        "email": "vivek.yadav@iiitb.ac.in"
-      }
-    ]
-  },
-  {
-    "name": "Advanced Wireless Communications Lab",
-    "description": "The \"Advanced Wireless Communications Lab\" is focused on developing next generation wireless communication technologies (e.g., MIMO technologies, Cognitive Radio technologies, Cooperative Communication, Physical Layer Security, Energy Harvesting Networks, Green Communication, mmWave communication systems, and Intelligent Reflecting Surfaces). Emphasis will be on building new wireless communication systems and development of new technologies with their performance analyses.",
-    "areas": [
-      "MIMO technologies",
-      "Cognitive Radio technologies",
-      "Cooperative Communication",
-      "Physical Layer Security",
-      "Energy Harvesting Networks",
-      "Green Communication",
-      "mmWave communication systems",
-      "Intelligent Reflecting Surfaces"
-    ],
-    "faculty": [
-      {
-        "name": "Priyanka Das",
-        "email": "priyanka.das@iiitb.ac.in"
       }
     ]
   },
