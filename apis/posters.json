@@ -238,15 +238,6 @@
     "location": "Ramanujan - 1st",
     "posters": [
       {
-        "title": "Oral pathology image classification using vision language model",
-        "presenters": [
-          "Anwesh Nayak"
-        ],
-        "abstract": "",
-        "domain": "DSAI",
-        "hasDemo": false
-      },
-      {
         "title": "SmileAgain",
         "presenters": [
           "Prabhas"
